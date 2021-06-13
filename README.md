@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there 👋 
+### My name is Olga! I'm a beginner developer.
+
++ 🛠 I'm working on the final graduation project
++ 🎯 I’m currently learning javascript
+
+#### My contacts
++ 📝 runovaolgav@gmail.com
++ 🤝 https://www.linkedin.com/in/olgarunova
+
+
 
 <!--
 **nionka/nionka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
