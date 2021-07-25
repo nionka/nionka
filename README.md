@@ -2,7 +2,7 @@
 ### My name is Olga! I'm a beginner developer.
 
 + 👍 I like to write code
-+ 🛠 I'm working on the final graduation project
++ 🛠 I'm working on the final graduation [project](https://github.com/nionka/train_schedule)
 + 🎯 I’m currently learning javascript
 
 #### My contacts
