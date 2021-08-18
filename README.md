@@ -14,3 +14,5 @@
 <img align="left" width="26px" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img align="left" width="26px" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
 <img align="left" width="26px" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+
+![Автор в Доке  ](https://raw.githubusercontent.com/doka-guide/badges/8223de32538d8d2f6ed9fc4ad05e02d1bd80859f/images/badges/author.svg)
